@@ -1,0 +1,83 @@
+.container{
+    margin-left: 350px;
+}
+.orange{
+    background-color: orange;
+    height: 350px;
+    width: 400px;
+}
+.white{
+    background-color: white;
+    height: 350px;
+    width: 400px;
+}
+.yellow{
+    background-color: rgb(255, 238, 0);
+    height: 350px;
+    width: 400px;
+    margin-left: 400px;
+}
+.green{
+    background-color: green;
+    height: 350px;
+    width: 400px;
+    margin-left: 400px;
+}
+.top_container{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    height: 600px;
+    width: 700px;
+    border-radius: 5%;
+    border-left: 4px solid orange;
+    border-right: 4px solid green;
+    border-top: 4px solid rgb(255, 238, 0);
+    border-bottom: 4px solid white;
+} 
+.nav{
+    width: 400px;
+    height: 40px;
+    margin-left: 380px;
+    margin-top: 20px;
+}
+.join{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: 45px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+.left_container{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.error404{
+
+    font-size: 100px;
+}
+.some{
+
+    font-size: 40px;
+}
+.wrong{
+    font-size: 50px;
+}
+button{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    padding: 8px;
+    border-style: none;
+    border-radius: 50px;
+    height: 40px;
+    width: 200px;
+}
+.image{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 150px;   
+}
+
